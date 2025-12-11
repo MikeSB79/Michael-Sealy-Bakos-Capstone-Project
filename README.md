@@ -8,5 +8,5 @@ All virtual machines were configured with automated scripts to ensure consistent
 
 ## How to view
 - The main project video is included: `Michael Sealy-Bakos Capstone - Made with Clipchamp.mp4`
-- Full executive summary: `Executive_Summary.pdf`
+- Full executive summary: `Capstone Project Executive Summary.docx`
 - To view the video, simply download and play it with any standard media player.
